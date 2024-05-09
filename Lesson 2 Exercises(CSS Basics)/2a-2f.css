@@ -1,0 +1,25 @@
+/* 2A. UBER */
+
+.uber__button{
+  background-color: black;
+  color: white;
+  border: none;
+  height: 35px;
+  width: 108px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+/*  2B. Amazon  */
+
+.amazon__button{
+  background-color: rgb(255,216,20);
+  color: black;
+  border: none;
+  border-radius: 20px;
+  height: 30px;
+  width: 140px;
+  cursor: pointer;
+}
+
+
