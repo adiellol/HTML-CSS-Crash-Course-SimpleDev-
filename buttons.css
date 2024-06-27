@@ -1,5 +1,6 @@
 .subscribe__button{
-  background-color: rgb(201, 0, 0);
+  /* 4f. Get the exact color of the subscribe button */
+  background-color: rgb(204, 0, 0);
   color: white;
   border: none;
   padding-top: 10px;
@@ -53,8 +54,9 @@ opacity: 0.5;
   background-color: rgb(2, 158, 255);
   color: white;
   border: none;
-  padding-top: 9px;
-  padding-bottom: 9px;
+  /* 4f. Use padding instead of height/width */
+  padding-top: 10px;
+  padding-bottom: 10px;
   padding-left: 16px;
   padding-right: 16px;
   border-radius: 18px;

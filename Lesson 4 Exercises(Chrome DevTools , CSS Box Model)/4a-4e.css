@@ -4,8 +4,8 @@
   background-color: black;
   color: white;
   border: none;
-  height: 35px;
-  width: 108px;
+  /* 4a. Use padding instead of height/width */
+  padding: 12px 15px;
   cursor: pointer;
   margin-left: 10px;
   transition: opacity 0.15s;
@@ -22,8 +22,8 @@
   color: black;
   border: none;
   border-radius: 15px;
-  height: 30px;
-  width: 140px;
+  /* 4b. Use padding instead of height/width */
+  padding: 7px 35px;
   cursor: pointer;
   margin: 10px;
   font-weight: 700;
@@ -44,8 +44,8 @@
   font-weight: 700;
   border: none;
   border-radius: 17px;
-  height: 35px;
-  width: 85px;
+  /* 4c. Use padding instead of height/width */
+  padding: 12px 17px;
   cursor: pointer;
 }
 
@@ -64,8 +64,8 @@
 .get-started{
   background-color: rgb(121,82,179);
   color: white;
-  height: 40px;
-  width: 110px;
+  /* 4d. Use padding instead of height/width */
+  padding: 12px 20px;
   border: none;
   border-radius: 6px;
   font-weight: bold;
@@ -83,8 +83,8 @@
   border-color: rgb(108,117,125);
   border-style: solid;
   border-radius: 4px;
-  height: 35px;
-  width: 100px;
+  /* 4d. Use padding instead of height/width */
+  padding: 12px 17px;
   font-weight: bold;
   cursor: pointer;
   margin-left: 10px;
@@ -113,8 +113,8 @@ background-color: rgb(153, 107, 221);
   color: white;
   border: none;
   border-radius:20px ;
-  height: 40px;
-  width: 240px;
+  /* 4e. Use padding instead of height/width */
+  padding: 12px 24px;
   font-weight: bold;
   cursor: pointer;
   font-size: 15px;
@@ -130,8 +130,8 @@ background-color: rgb(153, 107, 221);
   border-width: 1px;
   border-radius: 20px;
   border-color: rgb(10,102,194);
-  height: 40px;
-  width: 80px;
+  /* 4e. Use padding instead of height/width */
+ padding: 12px 24px;
   font-weight: bold;
   font-size: 15px;
   transition: background-color 0.15s, border-width 0,15s;
