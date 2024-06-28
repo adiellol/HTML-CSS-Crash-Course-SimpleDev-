@@ -48,3 +48,32 @@
 }
 
 /* 4k. Margin and padding together */
+.row__button{
+  border:none;
+  background-color: rgb(18, 228, 18);
+  color: white;
+  font-size: 18px;
+  margin: 0px 10px;
+  padding: 8px 15px;
+  cursor: pointer;
+  transition: padding 800ms, margin 800ms;
+}
+
+.row__button:hover{
+  margin: 0px;
+}
+
+.button-one:hover{
+  padding: 8px 25px;
+
+}
+
+.button-two:hover{
+  padding: 8px 25px;
+
+}
+
+.button-three:hover{
+  padding: 8px 25px;
+
+}
