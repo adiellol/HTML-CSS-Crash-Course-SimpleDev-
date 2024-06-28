@@ -1,0 +1,14 @@
+/* 4h PAGINATION */
+.back__button{
+  padding: 8px;
+  margin: 8px
+}
+
+.next__button{
+  padding: 8px;
+  margin: 8px
+}
+
+.page-numbers{
+  margin: 4px 4px;
+}
