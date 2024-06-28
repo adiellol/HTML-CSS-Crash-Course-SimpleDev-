@@ -12,3 +12,19 @@
 .page-numbers{
   margin: 4px 4px;
 }
+
+/* 4i. Stretch */
+
+.stretch__button{
+  border: none;
+  background-color: rgb(18, 228, 18);
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  padding: 8px 12px;
+  cursor: pointer;
+  transition: padding 800ms ease;
+}
+
+.stretch__button:hover{
+  padding: 18px 36px;
+}
